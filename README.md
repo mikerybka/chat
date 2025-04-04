@@ -6,6 +6,8 @@
 go install github.com/mikerybka/chat@latest
 ```
 
+Make sure you set `OPENAI_API_KEY` env var.
+
 ## Usage
 
 ### Example
